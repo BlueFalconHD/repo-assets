@@ -74,12 +74,12 @@
             <div class="slider">
                 <!-- slide 1 -->
                 <div class="slide">
-                    <img src="https://github.com/BlueFalconHD/repo-assets/blob/main/repos/repo-template/repo-template-header.png" alt="" />
+                    <img src="https://github.com/BlueFalconHD/repo-assets/blob/main/repos/repo-template/repo-template-header.png?raw=true" alt="" />
                 </div>
 
                 <!-- slide 2 -->
                 <div class="slide">
-                    <img src="https://github.com/BlueFalconHD/repo-assets/blob/main/repos/tuxify/header.png" alt="" />
+                    <img src="https://github.com/BlueFalconHD/repo-assets/blob/main/repos/tuxify/header.png?raw=true" alt="" />
                 </div>
 
 
