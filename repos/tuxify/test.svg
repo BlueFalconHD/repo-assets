@@ -74,27 +74,15 @@
             <div class="slider">
                 <!-- slide 1 -->
                 <div class="slide">
-                    <img src="https://source.unsplash.com/random?landscape,mountain" alt="" />
+                    <img src="https://github.com/BlueFalconHD/repo-assets/blob/main/repos/repo-template/repo-template-header.png" alt="" />
                 </div>
 
                 <!-- slide 2 -->
                 <div class="slide">
-                    <img src="https://source.unsplash.com/random?landscape,cars" alt="" />
+                    <img src="https://github.com/BlueFalconHD/repo-assets/blob/main/repos/tuxify/header.png" alt="" />
                 </div>
 
-                <!-- slide 3 -->
-                <div class="slide">
-                    <img src="https://source.unsplash.com/random?landscape,night" alt="" />
-                </div>
 
-                <!-- slide 4 -->
-                <div class="slide">
-                    <img src="https://source.unsplash.com/random?landscape,city" alt="" />
-                </div>
-
-                <div class="slide">
-                    <img src="https://source.unsplash.com/random?landscape,city" alt="" />
-                </div>
 
                 <!-- Control buttons -->
                 <button class="btn btn-next">next</button>
