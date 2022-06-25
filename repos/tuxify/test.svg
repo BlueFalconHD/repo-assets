@@ -72,14 +72,14 @@
 
             <!-- Slider container -->
             <div class="slider">
-                <!-- slide 1 -->
-                <div class="slide">
-                    <img src="https://github.com/BlueFalconHD/repo-assets/blob/main/repos/repo-template/repo-template-header.png?raw=true" alt="" />
-                </div>
 
-                <!-- slide 2 -->
                 <div class="slide">
-                    <img src="https://github.com/BlueFalconHD/repo-assets/blob/main/repos/tuxify/header.png?raw=true" alt="" />
+                    <img src="header.png" alt="" />
+                </div>
+                
+                                
+                <div class="slide">
+                    <img src="header.png" alt="" />
                 </div>
 
 
